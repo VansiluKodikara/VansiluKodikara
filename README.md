@@ -16,6 +16,5 @@
 ---
 
 - 👨‍💻 Currently following the ICM Software Course at iCET (Institute of Computer Engineering Technology).
-- 💬 Followed a Robotics Course at SLIR (Sri Lanka Institute of Robotics).
 - 🌱 I’m diving deeper into Front End development tools like BootStrap and TailWind CSS. 
 
