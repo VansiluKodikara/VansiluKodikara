@@ -16,5 +16,5 @@
 ---
 
 - 👨‍💻 Currently following the ICM Software Course at iCET (Institute of Computer Engineering Technology).
-- 🌱 I’m diving deeper into Front End development tools like BootStrap and TailWind CSS. 
+- 🌱 I’m diving deeper into Front End development tools like BootStrap and TailWind CSS and Back End Frameworks like ElectronJs and also the JavaScript runtime environment, NodeJS.
 
