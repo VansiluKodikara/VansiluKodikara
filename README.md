@@ -22,6 +22,8 @@
    <h2 align="center">
       📊GitHub Statistics
    </h2>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/VansiluKodikara?cardType=octocat&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=VansiluKodikara&theme=vue-dark)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=VansiluKodikara)
