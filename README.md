@@ -20,14 +20,9 @@
 
 
    <h2 align="center">
-      📊GitHub Stat
+      📊My User Statistics
    </h2>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VansiluKodikara)](https://git.io/streak-stats)
-
-   <h2 align="center">
-      📈GitHub Repository Stat
-   </h2>
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=VansiluKodikara)
+![](https://raw.githubusercontent.com/VansiluKodikara/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ![](https://komarev.com/ghpvc/?username=VansiluKodikara)
 
