@@ -22,16 +22,8 @@
    <h2 align="center">
       📊GitHub Statistics
    </h2>
-   <br>
-      <div align=center>
-        <img width=390 src="https://awesome-github-stats.azurewebsites.net/user-stats/VansiluKodikara?cardType=octocat&fontFamily=&preferLogin=false"/>
-        <img width=390 src="https://streak-stats.demolab.com?user=VansiluKodikara&theme=discord-old-blurple" />
-      </div>
-</br>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/VansiluKodikara?cardType=octocat&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
-   <h2 align="center">
-      📈My Growth Stat
-   </h2>
-![GitHub Stats](http://localhost:8009/api?username=VansiluKodikara&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VansiluKodikara&theme=discord-old-blurple)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=VansiluKodikara)
