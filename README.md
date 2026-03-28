@@ -18,9 +18,8 @@
 - 👨‍💻 Currently following the ICM Software Course at iCET (Institute of Computer Engineering Technology).
 - 🌱 I’m diving deeper into Front End development tools like BootStrap and TailWind CSS and Back End Frameworks like ElectronJS and also the JavaScript runtime environment, NodeJS.
 
-<div align="center">
+
    <h2 align="center">
       📊GitHub Stat
    </h2>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VansiluKodikara)](https://git.io/streak-stats)
-</div>
