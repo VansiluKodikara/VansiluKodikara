@@ -22,5 +22,5 @@
    <h2 align="center">
       📊GitHub Statistics
    </h2>
-[![GitHub Trophy](https://personal-trophy.vercel.app/api?username=VansiluKodikara&theme=neon)](https://github.com/ayushraistudio/github-contribution-showcase)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VansiluKodikara)](https://git.io/streak-stats)
 
