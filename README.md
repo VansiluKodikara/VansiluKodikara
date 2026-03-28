@@ -22,8 +22,18 @@
    <h2 align="center">
       📊GitHub Statistics
    </h2>
+   <br>
+      <div align=center>
+        <img width=390 src="https://awesome-github-stats.azurewebsites.net/user-stats/VansiluKodikara?cardType=octocat&fontFamily=&preferLogin=false"/>
+        <img width=390 src="https://streak-stats.demolab.com?user=VansiluKodikara&theme=discord-old-blurple" />
+        <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=VansiluKodikara&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Vansilu Kodikara's Most Used Languages" />
+      </div>
+</br>
+
+/*
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/VansiluKodikara?cardType=octocat&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VansiluKodikara&theme=discord-old-blurple)](https://git.io/streak-stats)
+*/
 
 ![](https://komarev.com/ghpvc/?username=VansiluKodikara)
