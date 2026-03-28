@@ -25,7 +25,6 @@
    </h2>
 
   <br>
-
          <div align=center>
            <img width=390 src="https://awesome-github-stats.azurewebsites.net/user-stats/VansiluKodikara?cardType=octocat&fontFamily=&preferLogin=false" />
            <img width=390 src="https://streak-stats.demolab.com?user=VansiluKodikara&theme=discord-old-blurple" />
