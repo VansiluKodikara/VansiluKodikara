@@ -24,4 +24,4 @@
    </h2>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VansiluKodikara)](https://git.io/streak-stats)
 
-![Profile views](https://gpvc.arturio.dev/[VansiluKodikara])
+![](https://komarev.com/ghpvc/?username=VansiluKodikara)
