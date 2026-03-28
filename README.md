@@ -23,3 +23,5 @@
       📊GitHub Stat
    </h2>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VansiluKodikara)](https://git.io/streak-stats)
+
+![GitHubViewsCounter](https://openlabx.com/githubviewscounter/api/gitvcmp.php?username=VansiluKodikara&theme=dark)
