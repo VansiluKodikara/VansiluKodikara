@@ -24,5 +24,3 @@
    </h2>
 ![](https://raw.githubusercontent.com/VansiluKodikara/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-![](https://komarev.com/ghpvc/?username=VansiluKodikara)
-
