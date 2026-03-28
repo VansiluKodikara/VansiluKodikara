@@ -20,7 +20,7 @@
 
 
    <h2 align="center">
-      📊My User Statistics
+      📊GitHub Statistics
    </h2>
-![](https://raw.githubusercontent.com/VansiluKodikara/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+[![GitHub Trophy](https://personal-trophy.vercel.app/api?username=VansiluKodikara&theme=neon)](https://github.com/ayushraistudio/github-contribution-showcase)
 
