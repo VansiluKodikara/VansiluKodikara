@@ -34,7 +34,6 @@
         <h2 align="center">
             🔥GitHub Contributions' Heatmap
         </h2>
-              [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VansiluKodikara&bg_color=24292f&color=adbac7&line=adbac7&point=539bf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-         
+           <img src="https://github-readme-activity-graph.vercel.app/graph?username=VansiluKodikara&bg_color=24292f&color=adbac7&line=adbac7&point=539bf5&area=true&hide_border=true" />
 
 ![](https://komarev.com/ghpvc/?username=VansiluKodikara)
