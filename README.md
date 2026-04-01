@@ -28,18 +28,8 @@
          <div align=center>
            <img width=390 src="https://awesome-github-stats.azurewebsites.net/user-stats/VansiluKodikara?cardType=octocat&fontFamily=&preferLogin=false" />
            <img width=390 src="https://streak-stats.demolab.com?user=VansiluKodikara&theme=discord-old-blurple&card_height=200" />
+            <img width=390 src="https://github-readme-activity-graph.vercel.app/graph?username=VansiluKodikara&bg_color=24292f&color=adbac7&line=adbac7&point=539bf5&area=true&hide_border=true" />
          </div>
-
-   </br>
-   
-      <h2 align="center">
-         🔥GitHub Contributions Heatmap
-      </h2>
-
-   <br>
-           [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VansiluKodikara&bg_color=24292f&color=adbac7&line=adbac7&point=539bf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-   </br>
-   
+         
 
 ![](https://komarev.com/ghpvc/?username=VansiluKodikara)
