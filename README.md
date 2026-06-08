@@ -17,6 +17,7 @@
 ---
 
 - 👨‍💻 Currently following the ICM Software Course at iCET (Institute of Computer Engineering Technology).
+- 🚀 Mastering Flutter and Dart for cross-platform development.
 - 🌱 I’m diving deeper into Front End development tools like BootStrap and TailWind CSS and Back End Frameworks like ElectronJS and also the JavaScript runtime environment, NodeJS.
 
 
