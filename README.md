@@ -38,3 +38,5 @@
            <img src="https://github-readme-activity-graph.vercel.app/graph?username=VansiluKodikara&bg_color=24292f&color=adbac7&line=7289da&point=728ada&area=true&hide_border=true" />
 
 ![](https://komarev.com/ghpvc/?username=VansiluKodikara)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/USERNAME.svg)](https://user-badge.committers.top/sri_lanka/USERNAME=VansiluKodikara)
+
