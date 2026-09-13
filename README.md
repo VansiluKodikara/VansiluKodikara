@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
-</div>
+</div> -->
 
 <h3 align="center">
   Hi, I'm Vansilu Kodikara
@@ -39,4 +39,8 @@
 
 ![](https://komarev.com/ghpvc/?username=VansiluKodikara)
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/USERNAME.svg)](https://user-badge.committers.top/sri_lanka/VansiluKodikara)
+
+<div align="center">
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+</div>
 
